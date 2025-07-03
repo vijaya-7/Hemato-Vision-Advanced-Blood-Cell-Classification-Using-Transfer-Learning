@@ -1,6 +1,6 @@
 # Hematovision: Advanced Blood Cell Classification Using Transfer Learning
 
-### Author: Geethika Vasa
+### Author: Jakkam Vijaya lakshmi
 
 ---
 
